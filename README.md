@@ -9,6 +9,7 @@
 - **User-Friendly Interface**: PyQt-powered sleek design.  
 - **Custom Settings**: Adjust detection sensitivity.  
 - **Performance Insights**: Live stats during workouts.
+- **Local Data Storage**: Save workout history for tracking progress over time.
 
 ---
 
